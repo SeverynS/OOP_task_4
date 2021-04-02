@@ -1,3 +1,7 @@
+package com.people;
+
+import com.animals.Animal;
+
 public class Veterinarian {
 
     public void treatAnimal(Animal animal){

@@ -1,8 +1,10 @@
-public class Animal {
-    String food;
-    String location;
+package com.animals;
 
-    public Animal(){};
+public class Animal {
+    public String food;
+    public String location;
+
+    public Animal(){}
 
     public Animal(String food, String location) {
         this.food = food;

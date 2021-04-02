@@ -1,3 +1,5 @@
+package com.animals;
+
 public class Horse extends Animal{
 
     boolean isRunningHorse;
